@@ -4,3 +4,4 @@ This line comes from original/master
 This line comes from forkedRepo/feature-A
 Another line that comes from original/master
 This line comes from forkedRepo/feature-B
+A third line that comes from original/master
